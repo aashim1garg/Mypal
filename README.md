@@ -16,4 +16,4 @@ Mypal [documentation](https://github.com/Feodor2/Mypal/wiki) is available online
 Support is provided exclusively on GitHub. Please be patient with your support requests. You can also review existing [issues](https://github.com/Feodor2/Mypal/issues) on GitHub before requesting support.
 
 Please do not request support from Moonchild Productions or in Pale Moon forums. Mypal is an independent project and support is provided solely on GitHub by me.
-
+#hey
